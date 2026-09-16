@@ -1,2 +1,5 @@
 # odin-recipes
-First odin project assignment
+The website will consist of:
+- Main index page
+- Different recipe pages
+
